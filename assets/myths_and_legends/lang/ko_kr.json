@@ -59,6 +59,24 @@
   "item.myths_and_legends.zygarde_cell.description": "A Zygarde cell.",
   "item.myths_and_legends.zygarde_core": "지가르데코어",
   "item.myths_and_legends.zygarde_core.description": "A Zygarde core.",
+  "item.myths_and_legends.mystery_box": "멜탄상자",
+  "item.myths_and_legends.mystery_box.description": "A box that seems to attract a certain mysterious Pokémon.",
+  "item.myths_and_legends.reveal_glass": "비추는거울",
+  "item.myths_and_legends.reveal_glass.description": "A looking glass that reveals the true nature of the Therian Forces of Nature.",
+  "item.myths_and_legends.dark_stone": "다크스톤",
+  "item.myths_and_legends.dark_stone.description": "A stone filled with dark, powerful energy, linked to the Legendary Pokémon Zekrom.",
+  "item.myths_and_legends.light_stone": "라이트스톤",
+  "item.myths_and_legends.light_stone.description": "A stone radiating a pure light, connected to the Legendary Pokémon Reshiram.",
+  "item.myths_and_legends.teal_mask": "벽록의가면",
+  "item.myths_and_legends.teal_mask.description": "A mysterious mask associated with the Pokémon Ogerpon, radiating a soft, teal glow.",
+  "item.myths_and_legends.sun_flute": "태양의피리",
+  "item.myths_and_legends.sun_flute.description": "A flute that glows with the light of the sun, capable of summoning Solgaleo.",
+  "item.myths_and_legends.moon_flute": "달의피리 ",
+  "item.myths_and_legends.moon_flute.description": "A flute that shines with the light of the moon, used to call upon Lunala.",
+  "item.myths_and_legends.lunar_feather": "초승달날개",
+  "item.myths_and_legends.lunar_feather.description": "A feather that glows with a gentle lunar light, connected to the Legendary Pokémon Cresselia.",
+  "item.myths_and_legends.magma_stone": "화산의돌",
+  "item.myths_and_legends.magma_stone.description": "A stone that holds intense heat, tied to the Legendary Pokémon Heatran.",
 
 
   "category.myths_and_legends": "Myths and Legends",
@@ -69,8 +87,10 @@
   "command.myths_and_legends.no_pokemon": "%s의 파티에 포켓몬이 존재하지 않습니다..",
   "command.myths_and_legends.pokemon_list": "%s의 포켓몬: %s",
   "command.myths_and_legends.invalid_species": "Invalid species.",
-  "commands.myths_and_legends.has_pokemon": "%s has a %s in their party.",
-  "commands.myths_and_legends.not_have_pokemon": "%s does not have a %s in their party.",
+  "commands.myths_and_legends.has_pokemon": "%s은(는) %s을(를) 파티에 가지고 있습니다.",
+  "commands.myths_and_legends.not_have_pokemon": "%s은(는) %s을(를) 파티에 가지고 있지 않습니다.",
+  "commands.myths_and_legends.setblockcheckspecies.does_not_have_pokemon": "%s은(는) %s을(를) 파티에 가지고 있지 않습니다.",
+  "commands.myths_and_legends.setblockcheckspecies.success": "Block at %x, %y, %z has been.",
 
   "chat.broadcast.spawn": "야생의 %s이(가) 스폰됐다!",
   "chat.broadcast.location": "위치: X=%d, Y=%d, Z=%d",
@@ -80,5 +100,5 @@
   "chat.broadcast.shiny": "이로치 포켓몬 감지!",
   "chat.broadcast.level": "레벨: %s",
   
-  "force_spawning_disabled": "§cForce spawning is currently disabled!"
+  "force_spawning_disabled": "§cr강제소환 기능은 현재 비활성화 되어있습니다!"
 }
